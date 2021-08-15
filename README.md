@@ -12,15 +12,8 @@
 
  <div>
   <a href="https://github.com/marceloard">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marceloard&show_icons=true&theme=gold&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloard&layout=compact&langs_count=7&theme=gold"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marceloard&show_icons=true&theme=gold&include_all_commits=true&count_private=true"/>
+  
 </div>
-
- 
-  <div> 
-  <a href =
-  	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-  ></a> 
-
- 
-</div>
+ <a href="https://blogs.windows.com/" target="_blank"><img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+ target="_blank"></a>
